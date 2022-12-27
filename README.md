@@ -1,2 +1,2 @@
-# Eye-For-Bliend
+# Eye-For-Blind
 Upgrad Case Study 
